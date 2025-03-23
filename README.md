@@ -14,7 +14,7 @@ Veriler https://fakestoreapi.com/products üzerinden çekiliyor.
 - Basit modal kullanımı
 
 ## 📸 Tanıtım Videosu
-![YoutubeVideosu](https://youtu.be/FYQ_6PmWmqw)
+https://youtu.be/FYQ_6PmWmqw
 
 ## 🔨 Kurulum
 ```bash
