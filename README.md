@@ -1,7 +1,7 @@
 # 🛒 Dijital Ürün Sepet Uygulaması
 
 Küçük bir dijital ürün listeleme ve alışveriş sepeti uygulaması.  
-Veriler [Fake Store API](https://fakestoreapi.com/products) üzerinden çekiliyor.
+Veriler https://fakestoreapi.com/products üzerinden çekiliyor.
 
 ## 🚀 Özellikler
 - Ürün listeleme (resim, isim, fiyat)
@@ -13,9 +13,8 @@ Veriler [Fake Store API](https://fakestoreapi.com/products) üzerinden çekiliyo
 - Tailwind CSS ile modern ve hızlı tasarım
 - Basit modal kullanımı
 
-## 📸 Ekran Görüntüleri
-![Ürün Listesi](./screenshots/product-list.png)
-![Sepet Modali](./screenshots/cart-modal.png)
+## 📸 Tanıtım Videosu
+![YoutubeVideosu](https://youtu.be/FYQ_6PmWmqw)
 
 ## 🔨 Kurulum
 ```bash
